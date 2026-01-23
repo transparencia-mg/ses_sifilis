@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 10.867,
+  "time": 11.038,
   "errors": [],
   "tasks": [
     {
@@ -131,7 +131,7 @@
           "rows": 187957
         }
       },
-      "time": 8.772,
+      "time": 8.901,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -332,7 +332,7 @@
           "rows": 32783
         }
       },
-      "time": 1.94,
+      "time": 1.978,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -510,7 +510,7 @@
           "rows": 0
         }
       },
-      "time": 0.115,
+      "time": 0.118,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -4954,40 +4954,6 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22",
-          "fieldName": "nu_idade_n",
-          "fieldNumber": 8,
-          "fieldPosition": 8,
-          "cells": [
-            "O981",
-            "2017-08-01",
-            "2017",
-            "BELO HORIZONTE",
-            "BELO HORIZONTE",
-            "2017-05-23",
-            "1994-09-17",
-            "22",
-            "Branca",
-            "Ensino médio incompleto",
-            "BELO HORIZONTE",
-            "",
-            "Penicilina G benzatina 7.200.000UI",
-            "Não"
-          ],
-          "rowNumber": 131,
-          "rowPosition": 132,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"22\" in row \"132\" and field \"nu_idade_n\" at position \"8\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
           "cell": "36",
           "fieldName": "nu_idade_n",
           "fieldNumber": 8,
@@ -5008,6 +4974,40 @@
             "Não realizado",
             "Não"
           ],
+          "rowNumber": 131,
+          "rowPosition": 132,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"36\" in row \"132\" and field \"nu_idade_n\" at position \"8\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "22",
+          "fieldName": "nu_idade_n",
+          "fieldNumber": 8,
+          "fieldPosition": 8,
+          "cells": [
+            "O981",
+            "2017-08-01",
+            "2017",
+            "BELO HORIZONTE",
+            "BELO HORIZONTE",
+            "2017-05-23",
+            "1994-09-17",
+            "22",
+            "Branca",
+            "Ensino médio incompleto",
+            "BELO HORIZONTE",
+            "",
+            "Penicilina G benzatina 7.200.000UI",
+            "Não"
+          ],
           "rowNumber": 132,
           "rowPosition": 133,
           "code": "type-error",
@@ -5018,7 +5018,7 @@
             "#cell"
           ],
           "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"36\" in row \"133\" and field \"nu_idade_n\" at position \"8\": type is \"geopoint/default\"",
+          "message": "Type error in the cell \"22\" in row \"133\" and field \"nu_idade_n\" at position \"8\": type is \"geopoint/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
