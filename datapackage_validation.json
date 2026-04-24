@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 10.534,
+  "time": 7.234,
   "errors": [],
   "tasks": [
     {
@@ -125,13 +125,13 @@
         "scheme": "file",
         "title": "Dados de Sífilis Adquirida",
         "stats": {
-          "hash": "d586d88178d214d88661b1e2c6bd0e3e",
-          "bytes": 22605329,
+          "hash": "b5dc5ed9854fa2e567a61d35ebd217de",
+          "bytes": 22859154,
           "fields": 12,
-          "rows": 193142
+          "rows": 195359
         }
       },
-      "time": 8.528,
+      "time": 5.827,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -332,7 +332,7 @@
           "rows": 33345
         }
       },
-      "time": 1.859,
+      "time": 1.299,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -510,7 +510,7 @@
           "rows": 0
         }
       },
-      "time": 0.101,
+      "time": 0.069,
       "scope": [
         "hash-count-error",
         "byte-count-error",
