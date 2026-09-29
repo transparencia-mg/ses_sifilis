@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 12.28,
+  "time": 8.456,
   "errors": [],
   "tasks": [
     {
@@ -131,7 +131,7 @@
           "rows": 207856
         }
       },
-      "time": 9.971,
+      "time": 6.837,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -326,13 +326,13 @@
         "scheme": "file",
         "title": "Dados Sífilis Congênita",
         "stats": {
-          "hash": "3797954ce8b39c5a3ff0be3bb4dd88d1",
-          "bytes": 5605160,
+          "hash": "7fb807e545c38f63d50d79735bb47f7a",
+          "bytes": 5651922,
           "fields": 16,
-          "rows": 34504
+          "rows": 34795
         }
       },
-      "time": 2.136,
+      "time": 1.493,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -510,7 +510,7 @@
           "rows": 0
         }
       },
-      "time": 0.13,
+      "time": 0.092,
       "scope": [
         "hash-count-error",
         "byte-count-error",
